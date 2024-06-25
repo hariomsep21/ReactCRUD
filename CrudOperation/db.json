@@ -1,0 +1,22 @@
+{
+  "userReg": [
+    {
+      "username": "hariomji",
+      "email": "harooo@pragimtech.com",
+      "password": "12345678",
+      "id": "ee28"
+    },
+    {
+      "id": "4fda",
+      "username": "akash",
+      "email": "rohit@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "zapopm",
+      "email": "har@pragimtech.com",
+      "password": "90909090",
+      "id": "5d18"
+    }
+  ]
+}
